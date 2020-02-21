@@ -1,0 +1,5 @@
+-Truffle v5.1.13
+-openzeppelin v2.1.2
+-ERC-721 Token Name = Star Notary
+-ERC-721 Token Symbol = SN
+-Token Address on the Rinkeby Network = 0x24C3d8b02B8f5c477d9856a0D3e65c75c41E790c
